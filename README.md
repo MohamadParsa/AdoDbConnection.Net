@@ -1,2 +1,2 @@
 # DbConnectionC-
-with this project, you can embed database connections as ADO rapidly in the .Net projects 
+with this project, you can embed database connections as ADO in the .Net projects rapidly.
