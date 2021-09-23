@@ -69,8 +69,6 @@ namespace AdoDbConnection
                 if (IsExpress)
                 {
                     cs = @"Data source=.\SQLEXPRESS;Attachdbfilename=|DataDirectory|\" + DataBbaseName + ".mdf;Integrated security=true;user Instance=true";
-                    con.ConnectionString = cs;
-                    con.Open();
                 }
                 else
                 {
