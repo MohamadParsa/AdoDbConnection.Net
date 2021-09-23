@@ -1,0 +1,5 @@
+D:\shaksi\Dll\DBConnection\DBConnection\DBConnection\bin\Debug\DBConnection.dll
+D:\shaksi\Dll\DBConnection\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+D:\shaksi\Dll\DBConnection\DBConnection\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+D:\shaksi\Dll\DBConnection\DBConnection\DBConnection\obj\Debug\DBConnection.dll
+D:\shaksi\Dll\DBConnection\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

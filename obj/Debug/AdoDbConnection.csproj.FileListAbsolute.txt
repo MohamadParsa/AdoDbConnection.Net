@@ -1,0 +1,5 @@
+D:\DBConnection\DBConnection\DBConnection\bin\Debug\DBConnection.dll
+D:\DBConnection\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+D:\DBConnection\DBConnection\DBConnection\obj\Debug\AdoDbConnection.csprojAssemblyReference.cache
+D:\DBConnection\DBConnection\DBConnection\obj\Debug\DBConnection.dll
+D:\DBConnection\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
